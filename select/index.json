@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "뛰어(JUMP)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-03T06:17:24.361902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "뛰어(JUMP)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_뛰어(JUMP)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BLACKPINK - ‘뛰어(JUMP)’ M/V",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_BLACKPINK_-_‘뛰어(JUMP)’_M_V_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUMP",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_JUMP_BLACKPINK.txt"
+    }
+  ]
+}
